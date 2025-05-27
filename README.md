@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub Follow" /></a>
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views" />
+  <a href="https://github.com/mayankdevhub"><img src="https://img.shields.io/github/followers/mayankdevhub?label=Follow&style=social" alt="GitHub Follow" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mayankdevhub&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
@@ -66,18 +66,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Mayank's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mayankdevhub&show_icons=true&theme=tokyonight" alt="Mayank's GitHub Stats" />
 </p>
 
 ---
 
 ## 📫 Let's Connect!
 
-- 🐙 GitHub: [Mayank Kumar](https://github.com/your-username)
-<!-- Replace `your-username` with your actual GitHub username -->
-<!-- You can also add LinkedIn, Email, etc. -->
+- 🐙 GitHub: [Mayank Kumar](https://github.com/mayankdevhub)
+<!-- You can add LinkedIn, Email, etc. here -->
 
 ---
-
 
 ⭐ _“Strive not to be a success, but rather to be of value.” – Albert Einstein_
